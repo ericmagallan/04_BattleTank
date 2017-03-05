@@ -15,4 +15,4 @@
   ## Lecture List
   * BT 01 Section Introduction
  * BT Intro, Notes & Assets
- * BT 02 Game Design Document (GDD)
+ * BT 02 Game Design Document (GDD)Edit
